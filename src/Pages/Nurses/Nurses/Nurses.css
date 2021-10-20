@@ -1,0 +1,38 @@
+.nurses-container {
+    padding: 20px;
+}
+
+.heading {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    border: 1px solid lightslategrey;
+}
+
+.nurse-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+    grid-column-gap: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 60px;
+    text-align: center;
+    padding: 30px;
+    margin-bottom: 30px;
+    border: 1px solid lightslategrey;
+}
+
+
+/* responsive */
+@media only screen and (max-width:668px) {
+    .nurse-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+@media only screen and (min-width:669px) and (max-width:991px) {
+    .nurse-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

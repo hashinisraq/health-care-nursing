@@ -1,0 +1,19 @@
+.nurse {
+    padding: 10px;
+    background-color: lightblue;
+    border-radius: 20px;
+}
+
+.nurse img {
+    padding-bottom: 10px;
+    border-radius: 50%;
+}
+
+.nurse h5 {
+    font-size: 15px;
+    padding: 0px 15px 10px 15px;
+}
+
+Button {
+    margin: 10px;
+}

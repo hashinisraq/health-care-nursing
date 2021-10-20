@@ -1,0 +1,10 @@
+.carousel {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.carousel h3,
+h6 {
+    color: rgb(29, 38, 48);
+    line-height: 10px;
+}

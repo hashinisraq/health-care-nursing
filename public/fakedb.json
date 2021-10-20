@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "name": "Mariah Evans",
+    "age": 45,
+    "phone": 84569123,
+    "status": "Married",
+    "experience": "2 years",
+    "job": "Chief Nursing Officer",
+    "image": "https://randomuser.me/api/portraits/women/13.jpg",
+    "details": "The ward sister is the first level supervisor and team leader of the unit. She is directly accountable to the Nursing Superintendent through Deputy Nursing Superintendent for ward management and patient care. She will be responsible to organize and make plan of all nursing activities of her unit."
+  },
+  {
+    "id": 2,
+    "name": "Ed Rivera",
+    "age": 35,
+    "phone": 45869123,
+    "email": "edriv@gmail.com",
+    "status": "Married",
+    "experience": "3 years",
+    "job": "Nursing SUPDT",
+    "image": "https://randomuser.me/api/portraits/women/29.jpg",
+    "details": "Nursing Superintendent is responsible to the C.N.O. for planning organisation and development of nursing services in the hospital in consultation with Medical Supdt./Chief of centres. She will assist the CNO in formulation of hospital policy, particularly concerning nursing services."
+  },
+  {
+    "id": 3,
+    "name": "Ellie Robinson",
+    "age": 28,
+    "phone": 54964725,
+    "status": "Single",
+    "experience": "1 year",
+    "job": "DY. Nursing SUPDT",
+    "image": "https://randomuser.me/api/portraits/women/60.jpg",
+    "details": "Deputy Nursing Superintendent is responsible to all the Nursing Supdt. and assist her in the administration of nursing services in the hospital. A supervise the nursing care given to the patients in various departments by taking regular and daily round of her area and sometimes other areas."
+  },
+  {
+    "id": 4,
+    "name": "Lauren Gill",
+    "age": 26,
+    "phone": 41659875,
+    "status": "Married",
+    "experience": "4 years",
+    "job": "ASSTT. Nursing SUPDT",
+    "image": "https://randomuser.me/api/portraits/women/19.jpg",
+    "details": "Assist the total needs of patients in the unit and prepare planned nursing care. Demonstrate and Supervise the nursing care of patients in the unit."
+  },
+  {
+    "id": 5,
+    "name": "Lyle Valdez",
+    "age": 32,
+    "phone": 56487895,
+    "status": "Single",
+    "experience": "1 year",
+    "job": "Ward Sister",
+    "image": "https://randomuser.me/api/portraits/women/28.jpg",
+    "details": "The ward sister is the first level supervisor and team leader of the unit. She is directly accountable to the Nursing Superintendent."
+  },
+  {
+    "id": 6,
+    "name": "Ira Mccarthy",
+    "age": 27,
+    "phone": 65324789,
+    "status": "Married",
+    "experience": "3 years",
+    "job": "Clinical Supervisor",
+    "image": "https://randomuser.me/api/portraits/women/49.jpg",
+    "details": "A clinical supervisor oversees counselors and psychologists optimize treatments for clients. This may include hiring top-quality practitioners, leading them."
+  },
+  {
+    "id": 7,
+    "name": "Emery Mccarty",
+    "age": 24,
+    "phone": 87659874,
+    "status": "Single",
+    "experience": "2 years",
+    "job": "Staff Nurse",
+    "image": "https://randomuser.me/api/portraits/women/37.jpg",
+    "details": "A staff nurse is a registered nurse who provides high-quality care to employees of a company, residents of nursing homes, or patients in a hospital. They are responsible for initial patient assessment, monitoring patients' vital signs, and nurturing patients to recovery."
+  },
+  {
+    "id": 8,
+    "name": "Annie Sims",
+    "age": 34,
+    "phone": 85631495,
+    "status": "Married",
+    "experience": "1 year",
+    "job": "Staff Nurse",
+    "image": "https://randomuser.me/api/portraits/women/72.jpg",
+    "details": "A staff nurse is a registered nurse who provides high-quality care to employees of a company, residents of nursing homes, or patients in a hospital. They are responsible for initial patient assessment, monitoring patients' vital signs, and nurturing patients to recovery."
+  },
+  {
+    "id": 9,
+    "name": "Nyla Diaz",
+    "age": 39,
+    "phone": 87631289,
+    "status": "Married",
+    "experience": "3 years",
+    "job": "Ward Sister",
+    "image": "https://randomuser.me/api/portraits/women/69.jpg",
+    "details": "The ward sister is the first level supervisor and team leader of the unit. She is directly accountable to the Nursing Superintendent through Deputy Nursing Superintendent for ward management and patient care."
+  },
+  {
+    "id": 10,
+    "name": "Avery Schultz",
+    "age": 40,
+    "phone": 1784569123,
+    "status": "Single",
+    "experience": "2 years",
+    "job": "DY. Nursing SUPDT",
+    "image": "https://randomuser.me/api/portraits/women/53.jpg",
+    "details": "Deputy Nursing Superintendent is responsible to the Nursing Supdt. and assist her in the administration of nursing services in the hospital. A supervise the nursing care given to the patients in various departments by taking regular round of her area."
+  },
+  {
+    "id": 11,
+    "name": "Lilith Moore",
+    "age": 30,
+    "phone": 42569712,
+    "status": "Single",
+    "experience": "1 year",
+    "job": "Ward Sister",
+    "image": "https://randomuser.me/api/portraits/women/9.jpg",
+    "details": "The ward sister is the first level supervisor and team leader of the unit. She is directly accountable to the Nursing Superintendent through Deputy Nursing Superintendent for ward management and patient care."
+  },
+  {
+    "id": 12,
+    "name": "Sofia Diaz",
+    "age": 41,
+    "phone": 32974521,
+    "status": "Married",
+    "experience": "3 years",
+    "job": "Clinical Supervisor",
+    "image": "https://randomuser.me/api/portraits/women/91.jpg",
+    "details": "A clinical supervisor oversees counselors and psychologists optimize treatments for clients. This may include hiring top-quality practitioners, leading them to reach their potential, and overseeing clients' treatments."
+  }
+]

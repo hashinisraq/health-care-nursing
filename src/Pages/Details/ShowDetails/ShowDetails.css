@@ -1,0 +1,16 @@
+.selected-nurse{
+    margin: 80px;
+    border: 1px solid cyan;
+    background-color: lightblue;
+}
+
+.selected-nurse img{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 50%;
+}
+
+.selected-nurse h5 {
+    font-size: 15px;
+    padding: 0px 15px 10px 15px;
+}
